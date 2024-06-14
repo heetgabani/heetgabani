@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer, passionate abo
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)](https://www.linkedin.com/in/heet-gabani/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://twitter.com/your_twitter_handle)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://x.com/Heetgabani1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=github)](https://github.com/heetgabani/your_portfolio)
 
 ---
