@@ -1,18 +1,17 @@
 # Hi there, I'm Heet Gabani! 👋
-![Profile views](https://komarev.com/ghpvc/?username=heetgabani)
-
-![GitHub followers](https://img.shields.io/github/followers/heetgabani?style=social) 
+![Profile views](https://komarev.com/ghpvc/?username=heetgabani&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/heetgabani?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/heetgabani?style=social)
 
-Welcome to my GitHub profile! I'm a Frontend Developer, passionate about developing diffrent pro. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a dedicated Frontend Developer, passionate about creating innovative projects. Here you'll find some of my work and contributions to the tech community.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on WebGame Project
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: https://www.linkedin.com/in/heet-gabani/
-- ⚡ Fun fact: Start developing some Innovative Products
-- 💬 Ask me about react JS, JS, Python Flask
+- 🔭 I’m currently working on a Web Game Project.
+- 🌱 I’m currently learning Node.js.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/heet-gabani/).
+- ⚡ Fun fact: I love developing innovative products.
+- 💬 Ask me about React.js, JavaScript, and Python Flask.
 
 ## 🛠️ Technologies & Tools
 
@@ -24,9 +23,12 @@ Welcome to my GitHub profile! I'm a Frontend Developer, passionate about develop
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heetgabani&show_icons=true&hide_border=true&theme=radical)
-
+![Heet Gabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heetgabani&show_icons=true&hide_border=true&theme=radical)
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)]((https://www.linkedin.com/in/heet-gabani/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)](https://www.linkedin.com/in/heet-gabani/)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
