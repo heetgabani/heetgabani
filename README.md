@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=heetgabani&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/heetgabani?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/heetgabani?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/[your_twitter_handle](https://x.com/Heetgabani1)?style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)
 ![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=github)
 
