@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm a Frontend Developer, passionate about develop
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heetgabani&show_icons=true&hide_border=true&theme=radical)
 
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heetgabani&layout=compact&hide_border=true&theme=radical)
 
 ## 🔗 Connect with Me
 
