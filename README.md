@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Heet Gabani! 👋
 
-<!--
-**heetgabani/heetgabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a [Your Profession], passionate about [Your Interests]. Here you'll find some of my projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on WebGame Project
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me: https://www.linkedin.com/in/heet-gabani/
+- ⚡ Fun fact: Start developing some Innovative Products
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://twitter.com/your-profile)
+[![Personal Website](https://img.shields.io/badge/-Website-000?&logo=Google-Chrome&color=4285F4)](https://yourwebsite.com)
