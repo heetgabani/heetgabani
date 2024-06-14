@@ -1,9 +1,9 @@
 # Hi there, I'm Heet Gabani! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/heetgabani?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/heetgabani?style=social)
 
-Welcome to my GitHub profile! I'm a [Your Profession], passionate about [Your Interests]. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a Frontend Developer, passionate about developing diffrent pro. Here you'll find some of my projects and contributions.
 
 ## 🚀 About Me
 
@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a [Your Profession], passionate about [Your In
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: https://www.linkedin.com/in/heet-gabani/
 - ⚡ Fun fact: Start developing some Innovative Products
+- 💬 Ask me about react JS, JS, Python Flask
 
 ## 🛠️ Technologies & Tools
 
