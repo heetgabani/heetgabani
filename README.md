@@ -1,4 +1,5 @@
 # Hi there, I'm Heet Gabani! 👋
+![Profile views](https://komarev.com/ghpvc/?username=heetgabani)
 
 ![GitHub followers](https://img.shields.io/github/followers/heetgabani?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/heetgabani?style=social)
