@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer, passionate abo
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
-rofile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
+Feel free to explore my repositories and get in touch if you'd like to collaborate.
