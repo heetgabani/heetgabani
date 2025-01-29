@@ -34,6 +34,14 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer, passionate abo
 ![Heet Gabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heetgabani&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heetgabani&layout=compact&theme=radical)
 
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=tidbitsjs&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)](https://www.linkedin.com/in/heet-gabani/)
