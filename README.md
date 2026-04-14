@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Developer, passionate abo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a Web Game Project.
-- 🌱 I’m currently learning Node.js.
+- 🔭 I’m currently working on a 3D Web Game Project.
+- 🌱 I’m currently learning Three.js.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/heet-gabani/).
 - ⚡ Fun fact: I love developing innovative products.
 - 💬 Ask me about React.js, JavaScript, and Python Flask.
